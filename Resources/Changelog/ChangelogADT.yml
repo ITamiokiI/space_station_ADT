@@ -2281,12 +2281,12 @@ Entries:
     id: 249
   - author: PyotrIgn
     changes:
-      - {message: Уменьшена сила подрыва топливных резервуаров, type: Tweak}
+      - {message: Добавлены наши старые обмотки для ног в ОдеждоМат, type: Add}
     time: '2024-08-17T15:26:36Z'
     id: 250
   - author: PyotrIgn
     changes:
-      - {message: Добавлены наши старые обмотки для ног в ОдеждоМат, type: Add}
+      - {message: Уменьшена сила подрыва топливных резервуаров, type: Tweak}
     time: '2024-08-17T15:26:36Z'
     id: 251
   - author: PyotrIgn
@@ -2408,3 +2408,19 @@ Entries:
           нецелесообразности!, type: Remove}
     time: '2024-08-20T10:23:49Z'
     id: 267
+  - author: Darki255
+    changes:
+      - {message: Добавлена система анимированного фона в лобби, type: Add}
+    time: '2024-08-20T12:50:40Z'
+    id: 268
+  - author: Darki255
+    changes:
+      - {message: Исправлена ошибка анимированного фона, type: Fix}
+    time: '2024-08-20T14:51:15Z'
+    id: 269
+  - author: Котя
+    changes:
+      - {message: Добавлена возможность центрировать радиальные меню. Настраивается
+          в пункте Доступность., type: Add}
+    time: '2024-08-20T15:35:52Z'
+    id: 270
